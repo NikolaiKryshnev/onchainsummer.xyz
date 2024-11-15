@@ -89,7 +89,7 @@ Priced at 0.00435 ETH, this represents the 435 congressional districts in the U.
       endDate: Date.UTC(2023, 12, 1, CAMPAIGN_HOUR, CAMPAIGN_MINUTE, 0, 0),
       price: '0',
       externalLink:
-        'https://twitter.com/intent/tweet?&text=I%20%23standwithcrypto.%20So%20can%20you.%20Join%20standwithcrypto.org',
+        'https://x.com/intent/tweet?&text=I%20%23standwithcrypto.%20So%20can%20you.%20Join%20standwithcrypto.org',
       mintType: MintType.External,
       address: '0x',
       crossMintClientId: '',

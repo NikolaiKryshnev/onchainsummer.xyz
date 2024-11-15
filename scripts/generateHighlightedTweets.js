@@ -38,7 +38,7 @@ const generateHighlightedTweets = async () => {
     'created_at,description,entities,id,location,name,pinned_tweet_id,profile_image_url,protected,public_metrics,url,username,verified,verified_type,withheld'
   )
   const response = await fetch(
-    `https://api.twitter.com/2/tweets?${params.toString()}`,
+    `https://api.x.com/2/tweets?${params.toString()}`,
     {
       headers: {
         'Content-Type': 'application/json',

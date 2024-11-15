@@ -67,13 +67,13 @@ export const Footer = () => {
                       </a>
                     </li>
                     <li className="text-ocs-dark-gray">
-                      <a target="_blank" href="https://twitter.com/coinbase">
-                        Coinbase Twitter
+                      <a target="_blank" href="https://x.com/coinbase">
+                        Coinbase X
                       </a>
                     </li>
                     <li className="text-ocs-dark-gray">
-                      <a target="_blank" href="https://twitter.com/buildonbase">
-                        Base Twitter
+                      <a target="_blank" href="https://x.com/buildonbase">
+                        Base X
                       </a>
                     </li>
                     <li className="text-ocs-dark-gray">

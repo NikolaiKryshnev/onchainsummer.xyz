@@ -10,7 +10,7 @@ export const tweets = {
             end: 196,
             url: 'https://t.co/uIzPfQWReB',
             expanded_url:
-              'https://twitter.com/icebreaker_xyz/status/1697025056478556553/video/1',
+              'https://x.com/icebreaker_xyz/status/1697025056478556553/video/1',
             display_url: 'pic.twitter.com/uIzPfQWReB',
             media_key: '7_1697024943009996800',
           },
@@ -53,7 +53,7 @@ export const tweets = {
     },
     {
       possibly_sensitive: false,
-      text: '"The Face Of Base" is about to have a whole new meaning with #NFTOSHIS.  \n\nThe mint goes live August 31st at 17:00 EST / 21:00 UTC.  \n\nThe link to the mint site will shared on the official twitter account @Toshi_base shortly before the launch goes live. https://t.co/hYW9JlbEra',
+      text: '"The Face Of Base" is about to have a whole new meaning with #NFTOSHIS.  \n\nThe mint goes live August 31st at 17:00 EST / 21:00 UTC.  \n\nThe link to the mint site will shared on the official X account @Toshi_base shortly before the launch goes live. https://t.co/hYW9JlbEra',
       entities: {
         urls: [
           {
@@ -61,7 +61,7 @@ export const tweets = {
             end: 277,
             url: 'https://t.co/hYW9JlbEra',
             expanded_url:
-              'https://twitter.com/Toshi_base/status/1696959638158139633/video/1',
+              'https://x.com/Toshi_base/status/1696959638158139633/video/1',
             display_url: 'pic.twitter.com/hYW9JlbEra',
             media_key: '7_1696959508596084736',
           },
@@ -122,7 +122,7 @@ export const tweets = {
         {
           domain: {
             id: '131',
-            name: 'Unified Twitter Taxonomy',
+            name: 'Unified X Taxonomy',
             description: 'A taxonomy of user interests. ',
           },
           entity: { id: '10029202045', name: 'Facebook' },
@@ -130,7 +130,7 @@ export const tweets = {
         {
           domain: {
             id: '131',
-            name: 'Unified Twitter Taxonomy',
+            name: 'Unified X Taxonomy',
             description: 'A taxonomy of user interests. ',
           },
           entity: { id: '1196446161223028736', name: 'Social media' },
@@ -183,7 +183,7 @@ export const tweets = {
             end: 198,
             url: 'https://t.co/junABXkOXK',
             expanded_url:
-              'https://twitter.com/base_avatar/status/1697213737416208725/video/1',
+              'https://x.com/base_avatar/status/1697213737416208725/video/1',
             display_url: 'pic.twitter.com/junABXkOXK',
             media_key: '7_1697213282464268288',
           },
@@ -233,7 +233,7 @@ export const tweets = {
         {
           domain: {
             id: '131',
-            name: 'Unified Twitter Taxonomy',
+            name: 'Unified X Taxonomy',
             description: 'A taxonomy of user interests. ',
           },
           entity: { id: '1265660441822281728', name: 'Art' },
@@ -241,7 +241,7 @@ export const tweets = {
         {
           domain: {
             id: '131',
-            name: 'Unified Twitter Taxonomy',
+            name: 'Unified X Taxonomy',
             description: 'A taxonomy of user interests. ',
           },
           entity: { id: '1537182142450372608', name: 'AI image generation' },
@@ -277,7 +277,7 @@ export const tweets = {
             end: 58,
             url: 'https://t.co/5ai35wcfm4',
             expanded_url:
-              'https://twitter.com/tokepadxyz/status/1697319426213716021/photo/1',
+              'https://x.com/tokepadxyz/status/1697319426213716021/photo/1',
             display_url: 'pic.twitter.com/5ai35wcfm4',
             media_key: '3_1697319357762695168',
           },
@@ -326,7 +326,7 @@ export const tweets = {
             end: 297,
             url: 'https://t.co/VoDSTpfqhJ',
             expanded_url:
-              'https://twitter.com/Landtorn/status/1696902398717853999/photo/1',
+              'https://x.com/Landtorn/status/1696902398717853999/photo/1',
             display_url: 'pic.twitter.com/VoDSTpfqhJ',
             media_key: '3_1696901852619522048',
           },
@@ -396,7 +396,7 @@ export const tweets = {
             end: 308,
             url: 'https://t.co/w64ys2BYQD',
             expanded_url:
-              'https://twitter.com/Layerrxyz/status/1696216157601284148/photo/1',
+              'https://x.com/Layerrxyz/status/1696216157601284148/photo/1',
             display_url: 'pic.twitter.com/w64ys2BYQD',
             media_key: '16_1696216146595516416',
           },
@@ -464,7 +464,7 @@ export const tweets = {
         {
           domain: {
             id: '131',
-            name: 'Unified Twitter Taxonomy',
+            name: 'Unified X Taxonomy',
             description: 'A taxonomy of user interests. ',
           },
           entity: {
@@ -988,7 +988,7 @@ export const tweets = {
               end: 196,
               url: 'https://t.co/uIzPfQWReB',
               expanded_url:
-                'https://twitter.com/icebreaker_xyz/status/1697025056478556553/video/1',
+                'https://x.com/icebreaker_xyz/status/1697025056478556553/video/1',
               display_url: 'pic.twitter.com/uIzPfQWReB',
               media_key: '7_1697024943009996800',
             },
@@ -1031,7 +1031,7 @@ export const tweets = {
       },
       {
         possibly_sensitive: false,
-        text: '"The Face Of Base" is about to have a whole new meaning with #NFTOSHIS.  \n\nThe mint goes live August 31st at 17:00 EST / 21:00 UTC.  \n\nThe link to the mint site will shared on the official twitter account @Toshi_base shortly before the launch goes live. https://t.co/hYW9JlbEra',
+        text: '"The Face Of Base" is about to have a whole new meaning with #NFTOSHIS.  \n\nThe mint goes live August 31st at 17:00 EST / 21:00 UTC.  \n\nThe link to the mint site will shared on the official X account @Toshi_base shortly before the launch goes live. https://t.co/hYW9JlbEra',
         entities: {
           urls: [
             {
@@ -1039,7 +1039,7 @@ export const tweets = {
               end: 277,
               url: 'https://t.co/hYW9JlbEra',
               expanded_url:
-                'https://twitter.com/Toshi_base/status/1696959638158139633/video/1',
+                'https://x.com/Toshi_base/status/1696959638158139633/video/1',
               display_url: 'pic.twitter.com/hYW9JlbEra',
               media_key: '7_1696959508596084736',
             },
@@ -1100,7 +1100,7 @@ export const tweets = {
           {
             domain: {
               id: '131',
-              name: 'Unified Twitter Taxonomy',
+              name: 'Unified X Taxonomy',
               description: 'A taxonomy of user interests. ',
             },
             entity: { id: '10029202045', name: 'Facebook' },
@@ -1108,7 +1108,7 @@ export const tweets = {
           {
             domain: {
               id: '131',
-              name: 'Unified Twitter Taxonomy',
+              name: 'Unified X Taxonomy',
               description: 'A taxonomy of user interests. ',
             },
             entity: { id: '1196446161223028736', name: 'Social media' },
@@ -1161,7 +1161,7 @@ export const tweets = {
               end: 198,
               url: 'https://t.co/junABXkOXK',
               expanded_url:
-                'https://twitter.com/base_avatar/status/1697213737416208725/video/1',
+                'https://x.com/base_avatar/status/1697213737416208725/video/1',
               display_url: 'pic.twitter.com/junABXkOXK',
               media_key: '7_1697213282464268288',
             },
@@ -1211,7 +1211,7 @@ export const tweets = {
           {
             domain: {
               id: '131',
-              name: 'Unified Twitter Taxonomy',
+              name: 'Unified X Taxonomy',
               description: 'A taxonomy of user interests. ',
             },
             entity: { id: '1265660441822281728', name: 'Art' },
@@ -1219,7 +1219,7 @@ export const tweets = {
           {
             domain: {
               id: '131',
-              name: 'Unified Twitter Taxonomy',
+              name: 'Unified X Taxonomy',
               description: 'A taxonomy of user interests. ',
             },
             entity: { id: '1537182142450372608', name: 'AI image generation' },
@@ -1255,7 +1255,7 @@ export const tweets = {
               end: 58,
               url: 'https://t.co/5ai35wcfm4',
               expanded_url:
-                'https://twitter.com/tokepadxyz/status/1697319426213716021/photo/1',
+                'https://x.com/tokepadxyz/status/1697319426213716021/photo/1',
               display_url: 'pic.twitter.com/5ai35wcfm4',
               media_key: '3_1697319357762695168',
             },
@@ -1304,7 +1304,7 @@ export const tweets = {
               end: 297,
               url: 'https://t.co/VoDSTpfqhJ',
               expanded_url:
-                'https://twitter.com/Landtorn/status/1696902398717853999/photo/1',
+                'https://x.com/Landtorn/status/1696902398717853999/photo/1',
               display_url: 'pic.twitter.com/VoDSTpfqhJ',
               media_key: '3_1696901852619522048',
             },
@@ -1374,7 +1374,7 @@ export const tweets = {
               end: 308,
               url: 'https://t.co/w64ys2BYQD',
               expanded_url:
-                'https://twitter.com/Layerrxyz/status/1696216157601284148/photo/1',
+                'https://x.com/Layerrxyz/status/1696216157601284148/photo/1',
               display_url: 'pic.twitter.com/w64ys2BYQD',
               media_key: '16_1696216146595516416',
             },
@@ -1442,7 +1442,7 @@ export const tweets = {
           {
             domain: {
               id: '131',
-              name: 'Unified Twitter Taxonomy',
+              name: 'Unified X Taxonomy',
               description: 'A taxonomy of user interests. ',
             },
             entity: {

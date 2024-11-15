@@ -19,7 +19,7 @@ export const TweetCard: FunctionComponent<ITweetCardProps> = ({
   media,
 }) => {
   const linkToTwitter = useMemo(() => {
-    return `https://twitter.com/${author.username}/status/${tweet.id}`
+    return `https://x.com/${author.username}/status/${tweet.id}`
   }, [author.username, tweet.id])
 
   const message = tweet.text.trim()
